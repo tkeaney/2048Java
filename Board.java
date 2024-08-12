@@ -119,8 +119,4 @@ public class Board {
             }
         }
     }
-
-        public int[][] getGrid() {
-            return grid;
-        }
     }
